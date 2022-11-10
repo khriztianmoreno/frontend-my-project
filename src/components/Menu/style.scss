@@ -1,0 +1,11 @@
+
+.menu {
+  &__item {
+    color: black;
+    font-size: 16px;
+
+    &--active {
+      color: red;
+    }
+  }
+}
