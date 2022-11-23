@@ -3,7 +3,6 @@ import Menu from './components/Menu';
 import logo from './logo.svg';
 
 import './App.css';
-import './style.scss';
 
 function App() {
   return (
